@@ -16,4 +16,5 @@ This is the *remote* version of the repositiory, but when you make changes to it
 
 *Troubleshooting resources:*<br>
 * [Cloning a repo](https://help.github.com/en/articles/cloning-a-repository)<br>
-* [Github Pages](https://pages.github.com/)
+* Github Pages: [here](https://pages.github.com/) and [here](https://help.github.com/en/articles/about-github-pages)
+* [W3Schools](https://www.w3schools.com/)
