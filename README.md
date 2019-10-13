@@ -1,10 +1,10 @@
-# swe-wit-website.github.io
+# swe-wit.github.io
 SWE collaboration with DPHS WIT (Women in Technology) club to create the WIT website.
 
 *Welcome WIT members!*<br>
 Right now, you're viewing the `swe-wit-website` repository under the `swe-wit` organization. 
 
-This is the *remote* version of the repositiory, but when you make changes to it, you'll be working on your *local* computer. You'll then *push* your changes to the remote version that you see here, which goes live at [swe-wit-website.github.io](http://swe-wit-website.github.io).<br>
+This is the *remote* version of the repositiory, but when you make changes to it, you'll be working on your *local* computer. You'll then *push* your changes to the remote version that you see here, which goes live at [swe-wit.github.io](http://swe-wit.github.io).<br>
 
 *Git commands you might want to use:*<br>
 
