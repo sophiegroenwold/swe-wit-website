@@ -1,0 +1,11 @@
+html, body
+{
+  max-width: 100%;
+  overflow-x: hidden;
+  background-color: #fff;
+}
+
+h1, title, p
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
